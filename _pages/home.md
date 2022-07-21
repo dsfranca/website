@@ -1,12 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: "Daniel Stilck Franca's Homepage- Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Starting Faculty at Inria and École Normale Supérieure de Lyon."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+I hold an Inria Starting Faculty Position (ISFP) at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). 
+
+My main interests lie in the areas of quantum information and computation with a strong mathematical focus.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
