@@ -4,12 +4,25 @@ layout: homelay
 excerpt: "Starting Faculty at Inria and École Normale Supérieure de Lyon."
 sitemap: false
 permalink: /
+tags:
+ - quantum
+ - information
+ - entropy
+ - theory
+ - computation
+ - mathematics
+ - channels
 ---
 
-I hold an Inria Starting Faculty Position (ISFP) at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). 
+I am an Inria Starting Faculty Position (ISFP) at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). 
 
-My main interests lie in the areas of quantum information and computation with a strong mathematical focus.
+Broadly speaking, my main interests lie in the areas of quantum information and computation with a strong mathematical focus.
 
+
+# Short CV
+I completed my PhD in November 2018 under the supervision of [Prof. Dr. Michael Wolf](http://www-m5.ma.tum.de/Allgemeines/MichaelWolf) at the mathematics department of the [Technical University Munich](https://www.tum.de/). After that I was a postdoc at [QMATH](https://qmath.ku.dk/), where I worked with [Matthias Christandl](https://www.math.ku.dk/english/staff/?pure=en/persons/475476) until early 2022. Since April I hold a Inria Starting Faculty Position at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). 
+
+# Research interests
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
